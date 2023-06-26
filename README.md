@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hentony</h1>
 <h3 align="center">Hello! My name is Hentony, and I'm a data analyst and fullstack developer with a strong passion for
     technology.</h3>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
-    integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 
 <h3 align="left">Languages</h3>
-<p align="left" class="text-center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+<p align="left" class="container">
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            alt="bootstrap" width="40" height="40" /> </a><a href="https://developer.android.com" target="_blank"
+        rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" /> </a> <a href="https://codeigniter.com" target="_blank"
         rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40"
@@ -48,4 +50,3 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a>
 </p>
-
